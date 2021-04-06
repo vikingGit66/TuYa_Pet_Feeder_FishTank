@@ -16,7 +16,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 ⑦喂食结果；上报<br>
 ⑧OLED显示屏
 ### 硬件方案：
-硬件总体设计方案是由TuYa三明治模块、合泰HT66F0185-MCU、水温传感器DS18B20、投食器模块、补光灯、OLED 显示模块、按键控制模块等模块组成。
+硬件总体设计方案是由TuYa三明治模块、合泰HT66F4560-MCU、水温传感器DS18B20、投食器模块、补光灯、OLED 显示模块、按键控制模块等模块组成。
 ### 三、开发计划4月10日前完成.
 1）3月14前准备物料<br>
 2）3月3日-4月10日嵌入式开发、云开发<br>
